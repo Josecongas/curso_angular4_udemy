@@ -1,0 +1,20 @@
+body {
+	background: white;
+}
+
+.fondoAzul {
+	background: lightblue ;
+}
+
+.fondoVerde {
+	background: lightgreen;
+}
+
+.letraGrande {
+	font-size: 40px;
+}
+
+.activado {
+	font-weight: bold;
+	background: yellow;
+}
